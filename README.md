@@ -61,7 +61,7 @@ streamlit run app.py
 ---
 
 ## Visual
-<img src="RAG-Chatbot.jpg" width="75%">
+<img src="RAG-Chatbot.jpg" width="90%">
 
 ---
 
