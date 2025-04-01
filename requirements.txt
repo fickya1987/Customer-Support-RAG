@@ -11,4 +11,4 @@ langchain_core
 chromadb
 streamlit
 python-multipart
-SqLite3
+sqlite3==3.35.0
