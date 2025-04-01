@@ -11,3 +11,4 @@ langchain_core
 chromadb
 streamlit
 python-multipart
+SQLite3==3.36.0
