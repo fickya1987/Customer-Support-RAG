@@ -1,14 +1,13 @@
 lxml
-langchain
+langchain>=0.1.14
 ipykernel
 python-dotenv
 langchain_community
 langchain-text-splitters
 langchain_huggingface
-langchain_chroma
+langchain_chroma>=0.4.22
 langchain_groq
 langchain_core
-chromadb
+chromadb>=0.4.22
 streamlit
 python-multipart
-sqlite3>=3.35.0
